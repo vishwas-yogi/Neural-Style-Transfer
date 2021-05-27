@@ -9,6 +9,26 @@ Styled Image: </br>
 <img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/taj_on_a_starry%20night.png' alt= 'Styled Image'></br>
 </br>
 </br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/content_style4.png' alt= 'Content and Style Image'></br>
+Styled Image: </br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/styled4.jpg' alt= 'Styled Image'></br>
+</br>
+</br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/content_style3.png' alt= 'Content and Style Image'></br>
+Styled Image: </br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/styled3.jpg' alt= 'Styled Image'></br>
+</br>
+</br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/content_style2.png' alt= 'Content and Style Image'></br>
+Styled Image: </br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/styled2.jpg' alt= 'Styled Image'></br>
+</br>
+</br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/content_style1.png' alt= 'Content and Style Image'></br>
+Styled Image: </br>
+<img src= 'https://github.com/vishwas-yogi/Neural-Style-Transfer/blob/main/Images/styled11.jpg' alt= 'Styled Image'></br>
+</br>
+</br>
 <h3> Future Work: </h3> </br>
 Research has developed many efficient implementation of this algorithm. </br>
 This algorithm even on GPU takes 4-5 min to produce the image. Hence, not suitable for stream of images.</br>
